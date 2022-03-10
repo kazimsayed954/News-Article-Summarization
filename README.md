@@ -1,1 +1,1 @@
-# News-Article-Summarization
+# News Article Summarization
